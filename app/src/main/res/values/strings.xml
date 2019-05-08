@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DimeEletric</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-1811606266661231/1904537178</string>
+
+    <string-array name="metodos_de_instalacao">
+        <item>A1 com 2 condutores</item>
+        <item>A1 com 3 condutores</item>
+        <item>A2 com 2 condutores</item>
+        <item>A2 com 3 condutores</item>
+        <item>B1 com 2 condutores</item>
+        <item>B1 com 3 condutores</item>
+        <item>B2 com 2 condutores</item>
+        <item>B2 com 3 condutores</item>
+        <item>C com 2 condutores</item>
+        <item>C com 3 condutores</item>
+        <item>D com 2 condutores</item>
+        <item>D com 3 condutores</item>
+    </string-array>
+    <string name="title_activity_main5">Main5Activity</string>
+
+</resources>
